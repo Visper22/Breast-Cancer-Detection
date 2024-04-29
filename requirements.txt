@@ -2,4 +2,5 @@ numpy
 matplotlib
 seaborn
 pandas
+imbalanced-learn
 #-e .
